@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Unna:wght@400;700&display=swap');
+
+body{
+	background-color: #E9D5BA;
+	color: #2A2324;
+	font-family: 'Unna', serif;
+
+}
+
+h1 {
+	padding: 30px;
+	text-align: center;
+
+}
+
+h2 {
+	
+}
+
+#secretsum {
+	display: inline-block;
+	position: relative; top: -60px;
+}
+
+#secretpic {
+	width: 10%;
+	padding: 30px;
+	
+}
+
+#atlaspic {
+	width: 10%;
+	padding: 30px;
+	display: block;
+	
+}
+
+#sixsum {
+	display: inline-block;
+	position: relative; top: -260px; left: 190px;
+	width: 600px;
+}
+
+#ninthsum {
+	display: inline-block;
+	position: relative; top: -200px; left: 200px;
+	width: 550px;
+}
+
+#ninthpic {
+	width: 10%;
+	padding: 30px;
+	position: relative; left: -600px;
+	
+}
+
+#fantastical {
+	position: relative; top: -700px;
+}
+
+#sjmsum {
+	display: inline-block;
+	position: relative; top: -100px; left: 10px;
+	width: 550px;
+}
+
+#sjmpic {
+	width: 30%;
+	padding: 10px;
+	
+}
+
+
